@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Performance:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Performance_jar2</output-path>
+    <root id="archive" name="Performance.jar">
+      <element id="module-output" name="Performance" />
+    </root>
+  </artifact>
+</component>

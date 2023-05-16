@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="210620M.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/210620M_jar</output-path>
+    <root id="archive" name="TaylorSwift.jar">
+      <element id="module-output" name="TaylorSwift" />
+    </root>
+  </artifact>
+</component>
